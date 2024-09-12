@@ -7,3 +7,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/nayakashwin/nayakashwin.github.io.git
+	branch = main
