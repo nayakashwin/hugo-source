@@ -54,4 +54,4 @@ This article explores the different motor controller choices.
 3. Very expensive
 
 ## Conclusion
-The hoverboard motor controller was good but very bulky and for safety reasons should not be used directly with an RC controller. The ODrive was my favourite but its expensive and of the 4 boards ordered only 1 worked flawlessly on both channels. The ZS-X11F does not support hall sensors hence was eliminated as a choice almost immediately but only time will tell if I need to reconsider this in the future. All things considered ZS-X11F will probably be my final pick. I still need to get the PWM working with this board.
+The hoverboard motor controller was good but very bulky and for safety reasons should not be used directly with an RC controller. The ODrive was my favourite but its expensive and of the 4 boards ordered only 1 worked flawlessly on both channels. The ZS-X11F does not support hall sensors hence was eliminated as a choice almost immediately but only time will tell if I need to reconsider this in the future. All things considered ZS-X11H will probably be my final pick. I still need to get the PWM working with this board.
